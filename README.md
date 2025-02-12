@@ -2,9 +2,6 @@
 
 An **interactive Nonogram solver** built with HTML, CSS, and JavaScript. This web application allows users to solve, customize, and generate Nonogram puzzles in an intuitive interface.
 
-## 🚀 Live Demo
-[Check out the live version here!](https://nonogram-solver.pages.dev) *(Replace with your Cloudflare Pages URL after deployment)*
-
 ---
 
 ## 📌 Features
@@ -22,8 +19,7 @@ An **interactive Nonogram solver** built with HTML, CSS, and JavaScript. This we
 
 /nonogram-solver
 │── index.html      # Main application file
-│── README.md       # Project documentation
-└── assets/         # (Optional) Place for images, scripts, or styles
+└── README.md       # Project documentation
 
 ---
 
@@ -36,20 +32,6 @@ An **interactive Nonogram solver** built with HTML, CSS, and JavaScript. This we
 5. **Load a Puzzle:** Click "Load Puzzle" and upload a `.txt` puzzle file.
 
 ---
-
-## 🏗️ Deployment Guide
-
-### **1️⃣ Deploy via Cloudflare Pages**
-1. Push your code to a GitHub repository.
-2. Go to [Cloudflare Pages](https://pages.cloudflare.com/).
-3. Select "Create a Project" → Connect your GitHub repo.
-4. Set framework to **None** and deploy!
-
-### **2️⃣ Local Development**
-To run locally, simply open `index.html` in a browser:
-```sh
-open index.html   # macOS
-start index.html  # Windows
 
 🤝 Contributing
 
