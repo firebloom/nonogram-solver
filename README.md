@@ -15,14 +15,6 @@ An **interactive Nonogram solver** built with HTML, CSS, and JavaScript. This we
 
 ---
 
-## 📂 Project Structure
-
-/nonogram-solver
-│── index.html      # Main application file
-└── README.md       # Project documentation
-
----
-
 ## 🌍 How to Use
 
 1. **Solve a Puzzle:** Click "Solve" to auto-solve the grid.  
